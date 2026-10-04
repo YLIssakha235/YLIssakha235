@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Issakha 👋
 
-<!--
-**YLIssakha235/YLIssakha235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Industrial Engineering Student | Computer Engineering
 
-Here are some ideas to get you started:
+I'm a Master's student in **Industrial Engineering – Computer Engineering at ECAM Brussels**, currently completing an **Erasmus+ exchange at CESI Rouen** with a specialization in **Data Science & Big Data and AR/VR**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main areas of interest are:
+
+- 📊 Data Science & Artificial Intelligence
+- 🥽 Augmented & Virtual Reality (AR/VR)
+- 🌐 IoT & Smart Systems
+- 💻 Software Engineering & Computer Systems
+- ⚙️ Embedded Systems
+- 🏭 Industrial Applications & Predictive Maintenance
+
+I enjoy combining software, data and engineering technologies to build solutions for real-world and industrial applications.
