@@ -1,4 +1,4 @@
-# Hi, I'm Issakha 👋
+# Hi, I'm Issakha 
 
 ### Industrial Engineering Student | Computer Engineering
 
@@ -18,7 +18,7 @@ I enjoy combining software, data and engineering technologies to build solutions
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ I enjoy combining software, data and engineering technologies to build solutions
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🌱 Currently Learning & Exploring
+### Currently Learning & Exploring
 ![Data Science](https://img.shields.io/badge/Data%20Science-Currently%20Learning-blue?style=for-the-badge)
 ![Big Data](https://img.shields.io/badge/Big%20Data-Currently%20Learning-orange?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -56,3 +56,16 @@ I enjoy combining software, data and engineering technologies to build solutions
 ![LTspice](https://img.shields.io/badge/LTspice-Electronic%20Simulation-A01818?style=for-the-badge)
 ![IoT](https://img.shields.io/badge/IoT-4CAF50?style=for-the-badge)
 ![Embedded Programming](https://img.shields.io/badge/Embedded%20Programming-555555?style=for-the-badge)
+
+---
+
+## GitHub Stats
+
+![Issakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YLIssakha235&show_icons=true&theme=github_dark&hide_border=true)
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Issakha%20Yaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issakha-yl)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yayalibis05@gmail.com)
